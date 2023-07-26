@@ -8,8 +8,9 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79F707&center=true&vCenter=true&width=435&separator=%3D&lines=Full-stack+mobile+developer%3Dif+(i+%3C+you)+i%2B%2B;%3DAlways+learn+new+things)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79F707&center=true&vCenter=true&width=435&separator=%3D&lines=Full-stack+mobile+developer%3Dif+(i+%3C+you)+i%2B%2B;%3DAlways+learn+new+things" alt="Typing SVG" /></a>
+</div>
 
 
 <div align="center">
